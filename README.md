@@ -17,9 +17,13 @@
 
 Born in eastern Syria (Deir Ezzor). Since 2011, I've been building at the intersection of governance, technology, and conflict resolution; using blockchain and AI as tools for accountability, transparency, and institutional rebuilding in post-conflict societies.
 
-At [Web3 Foundation](https://web3.foundation), I was Governance Lead for [Polkadot](https://polkadot.network) and Kusama: owned three core governance programs, developed proposal review standards, and collaborated with hundreds of proposers, startups, and community groups on governance-related issues. I currently take freelance contracts in blockchain governance and decentralized treasury design. I founded [ZeFi](https://ze.fi) to bring blockchain education to MENA, Arabic-first, and built [Nawafith.net](https://nawafith.net) as an AI intelligence platform for Syria's transition.
+At [Web3 Foundation](https://web3.foundation), I was Governance Lead for [Polkadot](https://polkadot.network) and Kusama: owned three core governance programs, developed proposal review standards, and collaborated with hundreds of proposers, startups, and community groups on governance-related issues. Before that, I managed U.S. State Department stabilization programming in eastern Syria through [DT Global](https://dt-global.com). I co-founded [Charli3](https://charli3.io), the first oracle on Cardano, and exited in 2021. I currently take freelance contracts in blockchain governance and decentralized treasury design.
+
+I founded [ZeFi](https://ze.fi) to bring blockchain education to MENA, Arabic-first, and built [Nawafith.net](https://nawafith.net) as an AI intelligence platform for Syria's transition.
 
 I write about what I've lived: [Foreign Affairs](https://www.foreignaffairs.com), [Oxford](https://academic.oup.com/isq), [Yale](https://yalejournal.org), [Washington Post](https://www.washingtonpost.com). My photos from the revolution were published by Reuters and the Associated Press under the name *Zendetta*.
+
+**Fellowships:** Yale Kerry Initiative, Ethereum Foundation (Cohort 2), Antler EIR (NYC), U.S. State Department Leaders for Democracy
 
 Arabic native · English fluent · German getting there
 
@@ -38,36 +42,32 @@ Arabic native · English fluent · German getting there
 
 ### Published work
 
-**Foreign Affairs** — 6 articles
-- Ramadan in Syria: How Assad, ISIS, and Others Are Using the Holy Month (2015)
-- ISIS' New Frontier (2017)
-- The Names of Jihad (2017)
-- ISIS' Intelligence Service Refuses to Die (2017)
-- The Lives of Foreign Fighters Who Left ISIS (2017)
-- The Bloody Split Within ISIS (2017)
+**Foreign Affairs** (6 articles on Syria, armed groups, and conflict dynamics, 2015-2017)
 
 **Academic**
-- Rebel Group Attrition and Reversion to Violence — *Oxford International Studies Quarterly* (2020)
-- The Coming Catastrophe in Syria's Prisons — *Yale Journal of International Affairs* (2020)
+- Rebel Group Attrition and Reversion to Violence, *Oxford International Studies Quarterly* (2020)
+- The Coming Catastrophe in Syria's Prisons, *Yale Journal of International Affairs* (2020)
 
 **Major media & platforms**
-- What refugees say about why they are leaving Syria now — *Washington Post* (2015)
-- Eleven Years Later, War Rages on in Syria — *Newsweek* (2022)
-- Beyond Borders: Blockchain in a Crisis — *Ethereum.org* (2023)
-- After 11 Years of Syrian War, Can Education Foster Peace? — *Fulbright.org* (2022)
+- What refugees say about why they are leaving Syria now, *Washington Post* (2015)
+- Eleven Years Later, War Rages on in Syria, *Newsweek* (2022)
+- Beyond Borders: Blockchain in a Crisis, *Ethereum.org* (2023)
+- After 11 Years of Syrian War, Can Education Foster Peace?, *Fulbright.org* (2022)
+- Fear of a Deadlier Successor to ISIS in Deir Ezzor, *Al Bawaba*
+- Published in *The New Humanitarian*, *HuffPost*, *Al Arabiya*
 
 ---
 
 ### Press & profiles
 
-- Inside the Tech Systems That Kept Syria Running Under the Assad Regime — *Wired Middle East* (2026)
-- Syrian refugee turned civil activist found calling as blockchain evangelist — *Cointelegraph* (2022)
-- A Syrian democracy activist overcomes detentions, barriers in path to Yale — *Yale Jackson School*
-- In two charts, this is what refugees say about why they are leaving Syria now — *Washington Post* (2015)
-- After a year of torture in Syrian jail, an activist finally makes it to the US — *The World from PRX*
-- Blockchain for Impact Workshop — *Harvard Belfer Center*
-- Arab Nations Experiment with Blockchain Technology but Universities Rarely Teach It — *Al Fanar Media*
-- Syrian Students at Bard College Berlin: A Humanistic Imperative — *Bard College Berlin*
+- Inside the Tech Systems That Kept Syria Running Under the Assad Regime, *Wired Middle East* (2026)
+- Syrian refugee turned civil activist found calling as blockchain evangelist, *Cointelegraph* (2022)
+- A Syrian democracy activist overcomes detentions, barriers in path to Yale, *Yale Jackson School*
+- In two charts, this is what refugees say about why they are leaving Syria now, *Washington Post* (2015)
+- After a year of torture in Syrian jail, an activist finally makes it to the US, *The World from PRX*
+- Blockchain for Impact Workshop, *Harvard Belfer Center*
+- Arab Nations Experiment with Blockchain Technology but Universities Rarely Teach It, *Al Fanar Media*
+- Syrian Students at Bard College Berlin: A Humanistic Imperative, *Bard College Berlin*
 
 ---
 
