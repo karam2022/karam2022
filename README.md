@@ -85,4 +85,14 @@ Arabic native · English fluent · German getting there
 
 ---
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karam2022/karam2022/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karam2022/karam2022/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/karam2022/karam2022/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
