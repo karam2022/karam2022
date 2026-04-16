@@ -4,11 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=25&lines=Governance+Architect+%C2%B7+Syria+Rebuilder+%C2%B7+Web3+%26+AI+Builder;Yale+MPP+%C2%B7+Ethereum+Foundation+Fellow+%C2%B7+Kerry+Fellow;Foreign+Affairs+%C2%B7+Oxford+%C2%B7+Yale+%C2%B7+Washington+Post+%C2%B7+Wired)](https://github.com/karam2022)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karam2022)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zendetta)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zendetta)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://thedailysyrian.substack.com)
 [![Ethereum.org](https://img.shields.io/badge/Ethereum.org-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)](https://ethereum.org/en/community/research/#702f74e1-29d3-4b93-9dee-a7aa1a1e0b74)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://researchgate.net/profile/Karam-Alhamad-2)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=NGQDloAAAAAJ&hl=en&oi=ao)
+[![Yale](https://img.shields.io/badge/Yale-00356B?style=flat-square&logo=yale&logoColor=white)](https://jackson.yale.edu/person/karam-alhamad/)
 
 </div>
 
