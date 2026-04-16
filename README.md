@@ -30,7 +30,7 @@ Arabic native · English fluent · German getting there
 | Project | Description |
 |---------|-------------|
 | [nawafith.net](https://nawafith.net) | **AI intelligence platform for Syria.** 770+ Arabic & English sources. Entity extraction, faction mapping, daily briefings. Featured in [Wired Middle East](https://wired.me). |
-| [zendetta.com](https://zendetta.com) | **Immersive WebGL documentary** on the Syrian revolution. 7 languages. Original artwork and soundtrack. Awwwards Site of the Day, CSS Design Awards Site of the Month, Muse Creative Platinum (x2), W³ Gold. [Case study](https://www.psychoactive.co.nz/content-hub/zendetta-bearing-witness-as-syria-enters-a-new-chapter). Hosts the Zendetta Grant for Syrian university applicants. |
+| [zendetta.com](https://zendetta.com) | **My story as an immersive WebGL documentary.** 7 languages. Original artwork and soundtrack. Built with [Psychoactive](https://www.psychoactive.co.nz/content-hub/zendetta-bearing-witness-as-syria-enters-a-new-chapter). Awwwards Site of the Day, CSS Design Awards Site of the Month, Muse Creative Platinum (x2), W³ Gold. Hosts the Zendetta Grant for Syrian university applicants. |
 | [nafas](https://github.com/karam2022/nafas) | **Voice capture framework** for AI-assisted writing. Two-file system: *nafas.md* captures your voice, *ghirbal.md* runs an 8-angle review modeled on the Damascene star. |
 | [ze.fi](https://ze.fi) | **Arabic-first blockchain education.** First comprehensive platform of its kind in MENA. Designed for low-bandwidth environments across Syria, Iraq, Turkey, and Jordan. Featured in [Cointelegraph](https://cointelegraph.com/features/syrian-refugee-turned-civil-activist-found-calling-as-blockchain-evangelist). |
 
