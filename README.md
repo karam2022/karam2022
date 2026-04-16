@@ -88,6 +88,8 @@ Arabic native · English fluent · German getting there
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karam2022&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Contribution activity" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karam2022/karam2022/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karam2022/karam2022/output/github-contribution-grid-snake.svg" />
