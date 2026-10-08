@@ -135,6 +135,25 @@ def tickets(main, euro, lsm, lse, pairs, seed):
     out.append(("Top pair + random fill", fill, tuple(sorted(rnd.sample(range(1, 13), 2)))))
     return out
 
+def personal(phrase, n):
+    """Lines seeded by a phrase only you know. Nobody else asking an AI gets these.
+    Filters: at least 3 numbers above 31, no consecutive pair, not all same parity,
+    sum between 100 and 175, no two numbers sharing the same last digit pattern (e.g. 7,17,27)."""
+    import hashlib
+    rnd = random.Random(int(hashlib.sha256(phrase.encode()).hexdigest(), 16))
+    print(f"Personal lines for phrase of length {len(phrase)} (keep the phrase secret; same phrase = same lines):")
+    made = 0
+    while made < n:
+        m = tuple(sorted(rnd.sample(range(1, 51), 5)))
+        e = tuple(sorted(rnd.sample(range(1, 13), 2)))
+        if sum(x > 31 for x in m) < 3: continue
+        if any(b - a == 1 for a, b in zip(m, m[1:])): continue
+        if sum(x % 2 for x in m) in (0, 5): continue
+        if not 100 <= sum(m) <= 175: continue
+        if len({x % 10 for x in m}) < 4: continue
+        made += 1
+        print(f"  line {made}: {' '.join(f'{x:2d}' for x in m)}  |  {e[0]:2d} {e[1]:2d}")
+
 def check(draws, nums):
     m = set(nums[:5]); e = set(nums[5:7])
     score = Counter()
@@ -153,7 +172,11 @@ def main_cli():
     ap.add_argument("--seed", type=int, default=None)
     ap.add_argument("--check", nargs=7, type=int, metavar="N")
     ap.add_argument("--add", nargs=8, metavar="X", help="date n1 n2 n3 n4 n5 e1 e2")
+    ap.add_argument("--personal", metavar="PHRASE", help="generate N unique anti-popular lines from a secret phrase")
+    ap.add_argument("--lines", type=int, default=4)
     a = ap.parse_args()
+    if a.personal:
+        personal(a.personal, a.lines); return
     if a.add:
         d = dt.date.fromisoformat(a.add[0]); m = sorted(int(x) for x in a.add[1:6]); e = sorted(int(x) for x in a.add[6:8])
         assert len(set(m)) == 5 and all(1 <= x <= 50 for x in m) and len(set(e)) == 2 and all(1 <= x <= 12 for x in e)
