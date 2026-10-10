@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Kite Runner</title>
+<style>
+  :root {
+    --sky: #dfe9f0;
+    --paper: #fbf8f2;
+    --ink: #2b2a28;
+    --muted: #6b6760;
+    --kite: #c0392b;
+    --rule: #e4ddd0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --sky: #1c2630;
+      --paper: #16181b;
+      --ink: #ebe6dc;
+      --muted: #a39d92;
+      --kite: #e2665a;
+      --rule: #2c2f33;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+    font-size: 1.125rem;
+    line-height: 1.7;
+  }
+  header {
+    background: linear-gradient(var(--sky), var(--paper));
+    padding: 4rem 1rem 2.5rem;
+    text-align: center;
+  }
+  .kite { width: 64px; height: 80px; margin-bottom: 1rem; }
+  h1 {
+    font-size: clamp(2.2rem, 7vw, 3.4rem);
+    font-weight: normal;
+    letter-spacing: 0.01em;
+    margin: 0;
+  }
+  .byline { color: var(--muted); font-style: italic; margin: 0.4rem 0 0; }
+  main { max-width: 38rem; margin: 0 auto; padding: 1rem 1rem 4rem; }
+  h2 {
+    font-size: 0.85rem;
+    font-family: system-ui, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--kite);
+    margin: 3rem 0 0.5rem;
+  }
+  blockquote {
+    margin: 3rem 0;
+    padding: 0 0 0 1.25rem;
+    border-left: 3px solid var(--kite);
+    font-size: 1.5rem;
+    line-height: 1.4;
+    font-style: italic;
+  }
+  blockquote cite {
+    display: block;
+    margin-top: 0.6rem;
+    font-size: 0.95rem;
+    font-style: normal;
+    color: var(--muted);
+  }
+  footer {
+    border-top: 1px solid var(--rule);
+    color: var(--muted);
+    font-size: 0.9rem;
+    text-align: center;
+    padding: 1.5rem 1rem 2.5rem;
+  }
+</style>
+</head>
+<body>
+<header>
+  <svg class="kite" viewBox="0 0 64 80" aria-hidden="true">
+    <polygon points="32,2 60,30 32,58 4,30" fill="var(--kite)"/>
+    <line x1="32" y1="2" x2="32" y2="58" stroke="var(--paper)" stroke-width="1.5"/>
+    <line x1="4" y1="30" x2="60" y2="30" stroke="var(--paper)" stroke-width="1.5"/>
+    <path d="M32 58 q6 6 0 11 q-6 5 0 10" fill="none" stroke="var(--muted)" stroke-width="1.5"/>
+  </svg>
+  <h1>The Kite Runner</h1>
+  <p class="byline">Khaled Hosseini, 2003</p>
+</header>
+
+<main>
+  <h2>What it's about</h2>
+  <p>Amir is a boy growing up in a wealthy Kabul neighbourhood in the 1970s, and Hassan is his closest friend and his father's servant's son. They spend their winters flying kites, and Hassan is the best kite runner in the city, the one who can tell where a cut kite will fall before it starts to drop. Then, on the day of a kite-fighting tournament, Amir sees something happen to Hassan and does nothing. The rest of the book follows him as he carries that moment through the fall of the monarchy, the Soviet invasion, a new life in California, and finally a journey back to an Afghanistan he barely recognises.</p>
+
+  <blockquote>
+    “For you, a thousand times over.”
+    <cite>Hassan, to Amir</cite>
+  </blockquote>
+
+  <h2>Why it stays with me</h2>
+  <p>It's a story about guilt that doesn't fade just because time passes. Amir isn't a villain. He's a frightened child who makes a terrible choice, and Hosseini lets you sit inside his shame long enough that you start recognising your own smaller versions of it. What makes the book bearable is that it also believes people can make things right, even when it costs them everything and even when it comes far too late.</p>
+
+  <blockquote>
+    “There is a way to be good again.”
+    <cite>Rahim Khan</cite>
+  </blockquote>
+
+  <h2>If you haven't read it</h2>
+  <p>Go in knowing as little as possible. It's an easy book to start and a hard one to put down, and some chapters are genuinely difficult to read. It's worth it.</p>
+</main>
+
+<footer>A page about a book I love.</footer>
+</body>
+</html>
