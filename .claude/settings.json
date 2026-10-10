@@ -1,13 +1,22 @@
 {
   "extraKnownMarketplaces": {
     "diagram-design": {
-      "source": {
-        "source": "github",
-        "repo": "cathrynlavery/diagram-design"
-      }
+      "source": { "source": "github", "repo": "cathrynlavery/diagram-design" }
+    },
+    "superpowers-marketplace": {
+      "source": { "source": "github", "repo": "obra/superpowers-marketplace" }
+    },
+    "impeccable": {
+      "source": { "source": "github", "repo": "pbakaus/impeccable" }
+    },
+    "ultramod": {
+      "source": { "source": "github", "repo": "mertkayacs/ultramod" }
     }
   },
   "enabledPlugins": {
-    "diagram-design@diagram-design": true
+    "diagram-design@diagram-design": true,
+    "superpowers@superpowers-marketplace": true,
+    "impeccable@impeccable": true,
+    "ultramod@ultramod": true
   }
 }
