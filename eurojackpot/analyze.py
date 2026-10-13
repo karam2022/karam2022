@@ -154,6 +154,26 @@ def personal(phrase, n):
         made += 1
         print(f"  line {made}: {' '.join(f'{x:2d}' for x in m)}  |  {e[0]:2d} {e[1]:2d}")
 
+def weekly(phrase, drawdate):
+    """8 lines for one draw: no two lines share more than one number, all euro pairs distinct,
+    euro numbers avoid the most-played 4/5/7/12, every line has >=3 numbers above 31, no consecutive
+    pairs, mixed parity, sum 110-180. Same phrase + same date = same 8 lines."""
+    import hashlib
+    rnd = random.Random(int(hashlib.sha256(f"{phrase}|{drawdate}".encode()).hexdigest(), 16))
+    def ok(m):
+        return (sum(x > 31 for x in m) >= 3 and not any(b - a == 1 for a, b in zip(m, m[1:]))
+                and 1 <= sum(x % 2 for x in m) <= 4 and 110 <= sum(m) <= 180 and len({x % 10 for x in m}) >= 4)
+    lines, epairs = [], []
+    while len(lines) < 8:
+        m = tuple(sorted(rnd.sample(range(1, 51), 5)))
+        if not ok(m) or any(len(set(m) & set(l)) > 1 for l in lines): continue
+        e = tuple(sorted(rnd.sample([1, 2, 3, 6, 8, 9, 10, 11], 2)))
+        if e in epairs: continue
+        lines.append(m); epairs.append(e)
+    print(f"8 lines for draw {drawdate} (phrase length {len(phrase)}):")
+    for i, (m, e) in enumerate(zip(lines, epairs), 1):
+        print(f"  Feld {i}: {' '.join(f'{x:2d}' for x in m)}  +  {e[0]:2d} {e[1]:2d}")
+
 def check(draws, nums):
     m = set(nums[:5]); e = set(nums[5:7])
     score = Counter()
@@ -174,7 +194,10 @@ def main_cli():
     ap.add_argument("--add", nargs=8, metavar="X", help="date n1 n2 n3 n4 n5 e1 e2")
     ap.add_argument("--personal", metavar="PHRASE", help="generate N unique anti-popular lines from a secret phrase")
     ap.add_argument("--lines", type=int, default=4)
+    ap.add_argument("--weekly", nargs=2, metavar=("PHRASE", "DRAWDATE"), help="8 diversified anti-popular lines for one draw, reproducible from phrase+date")
     a = ap.parse_args()
+    if a.weekly:
+        weekly(a.weekly[0], a.weekly[1]); return
     if a.personal:
         personal(a.personal, a.lines); return
     if a.add:

@@ -16,6 +16,7 @@ python3 analyze.py --all                # whole history
 python3 analyze.py --check 4 6 7 17 45 7 12          # how a ticket would have scored
 python3 analyze.py --add 2026-10-09 3 14 27 38 45 2 9 # log a new draw after each Tue/Fri
 python3 analyze.py --personal "your secret phrase" --lines 4   # unique anti-popular lines nobody else gets
+python3 analyze.py --weekly "your secret phrase" 2026-10-20    # 8 diversified lines for one draw (Tuesday routine)
 ```
 
 ## The honest part
