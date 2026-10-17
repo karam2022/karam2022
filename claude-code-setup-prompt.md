@@ -129,6 +129,31 @@ Explain that **plugins** are installable bundles of skills, commands, agents, an
 
 Have me install **3–5 to start**, not everything. Then show me how to see what each added (type `/` to see the new commands and skills).
 
+## ⭐ Karam's stack (the setup my friend uses every day)
+
+My friend **Karam** ([github.com/karam2022](https://github.com/karam2022)) runs Claude Code with the plugins below. Help me install the ones that fit my goals. They come from community GitHub marketplaces, so for each one: add the marketplace, install the plugin, then restart the session. In the desktop app, use **+ → Plugins → Add plugin** and paste the GitHub repo. Or in Terminal:
+
+| Plugin | What it does | GitHub | Install |
+|---|---|---|---|
+| **superpowers** | Pro workflow skills: brainstorm → plan → test-driven development → debugging → verify before saying "done". The biggest quality upgrade. | [obra/superpowers](https://github.com/obra/superpowers) | `/plugin marketplace add obra/superpowers-marketplace` then `/plugin install superpowers@superpowers-marketplace` |
+| **superpowers-chrome** *(optional)* | Lets Claude drive Chrome directly to browse and test pages. | [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome) | `/plugin install superpowers-chrome@superpowers-marketplace` |
+| **elements-of-style** *(optional)* | Clear, concise writing rules from Strunk's *The Elements of Style*. Great for anyone who writes. | [obra/the-elements-of-style](https://github.com/obra/the-elements-of-style) | `/plugin install elements-of-style@superpowers-marketplace` |
+| **impeccable** | Design fluency for websites and app UIs. Commands like `/impeccable critique`, `/impeccable polish`, `/impeccable audit`. Makes things look *designed*, not AI-generic. | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) · [impeccable.style](https://impeccable.style) | `/plugin marketplace add pbakaus/impeccable` then `/plugin install impeccable@impeccable` |
+| **diagram-design** | Beautiful diagrams (architecture, flowcharts, timelines, org charts, Sankey, Gantt, and many more) as HTML/SVG/PNG. Also imports Mermaid, draw.io, and Excalidraw. | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | `/plugin marketplace add cathrynlavery/diagram-design` then `/plugin install diagram-design@diagram-design` |
+| **ultramod** | All-in-one safety and comfort pack: a usage-limit and context HUD, a guard with undo for dangerous commands (`rm -rf`, `git reset --hard`), `.env` and secret protection, and a receipt for every turn. | [mertkayacs/ultramod](https://github.com/mertkayacs/ultramod) | `/plugin marketplace add mertkayacs/ultramod` then `/plugin install ultramod@ultramod` |
+
+Notes for you (the coach):
+- These are **third-party** plugins. Have me glance at each GitHub page before installing, and explain that plugins can run code on my Mac.
+- If an install command fails, check the repo's README for the current instructions. Names and versions change.
+- After installing, show me a quick demo of each, for example: "use superpowers to plan a small website", "/impeccable critique this page", "draw a diagram of how my project works".
+
+**Karam's skills and connectors** (enabled in the Claude app):
+- **Anthropic skills:** PDF, Word (docx), Excel (xlsx), PowerPoint (pptx), **deep-research** (multi-source research reports), **skill-creator**, plus the browser and computer-use skills.
+- **Connectors:** **GitHub**, **Gmail**, **Google Calendar**, **Canva** (create and edit designs), **Higgsfield** (AI image, video, and audio generation), and **Claude Docs** (shareable docs).
+- **cowork-plugin-management:** for creating and customizing my own plugins later.
+
+**A GitHub project to try:** Karam's [**nafas**](https://github.com/karam2022/nafas), a voice-capture framework for AI-assisted writing. *nafas.md* captures your writing voice, and *ghirbal.md* runs an 8-angle review. Great if I write a lot: have Claude walk me through setting it up for my own voice.
+
 # PHASE 5: Skills
 
 - Explain that **skills** are reusable "how-to" instructions Claude loads automatically when relevant, or that I call with `/skill-name`.
