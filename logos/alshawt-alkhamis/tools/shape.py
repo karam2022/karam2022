@@ -13,6 +13,8 @@ FONTS = {
  "kufi4": N+"fontsource-reem-kufi-5.3.0/package/files/reem-kufi-arabic-400-normal.woff2",
  "rakkas": N+"fontsource-rakkas-5.3.0/package/files/rakkas-arabic-400-normal.woff2",
  "marhey": N+"fontsource-marhey-5.3.0/package/files/marhey-arabic-700-normal.woff2",
+ "mont": N+"mont/package/files/montserrat-latin-800-normal.woff2",
+ "mont5": N+"mont/package/files/montserrat-latin-500-normal.woff2",
 }
 _cache = {}
 def feats(name):
