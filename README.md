@@ -35,8 +35,14 @@ Arabic native · English fluent · German getting there
 |---------|-------------|
 | [nawafith.net](https://nawafith.net) | **AI intelligence platform for Syria.** 770+ Arabic & English sources. Entity extraction, faction mapping, daily briefings. Featured in [Wired Middle East](https://wired.me). |
 | [zendetta.com](https://zendetta.com) | **My story as an immersive WebGL documentary.** 7 languages. Original artwork and soundtrack. Built with [Psychoactive](https://www.psychoactive.co.nz/content-hub/zendetta-bearing-witness-as-syria-enters-a-new-chapter). Awwwards Site of the Day, CSS Design Awards Site of the Month, Muse Creative Platinum (x2), W³ Gold. Hosts the Zendetta Grant for Syrian university applicants. |
-| [nafas](https://github.com/karam2022/nafas) | **Voice capture framework** for AI-assisted writing. Two-file system: *nafas.md* captures your voice, *ghirbal.md* runs an 8-angle review modeled on the Damascene star. |
+| [nafas](https://github.com/karam2022/nafas) | **Writing-style prompts for AI assistants.** Arabic and English guidance for capturing your own style, with an eight-part draft review. |
 | [ze.fi](https://ze.fi) | **Arabic-first blockchain education.** First comprehensive platform of its kind in MENA. Designed for low-bandwidth environments across Syria, Iraq, Turkey, and Jordan. Featured in [Cointelegraph](https://cointelegraph.com/features/syrian-refugee-turned-civil-activist-found-calling-as-blockchain-evangelist). |
+| [Safer Devices](https://github.com/karam2022/safer-devices) | **Device and account security.** Practical English and Arabic checklists, copyable agent instructions and attributed sources. |
+| [Nawafith Starter](https://github.com/karam2022/nawafith-starter) | **Documents to searchable records.** A bilingual OCR and structured-extraction starter kit, with links back to original sources. |
+| [WordClarity](https://github.com/karam2022/wordclarity) | **A browser writing workspace.** Word counts, readability and speaking-time estimates, plus shared writing sprints. |
+| [BasedBot Discipline](https://github.com/karam2022/basedbot-discipline) | **Feed filters and trading-discipline reminders.** A Chrome extension with optional Telegram alerts and a separate VPS watcher. |
+
+**Small browser games:** [Samizdat](https://github.com/karam2022/samizdat), a one-tap courier arcade; [The Oracle](https://github.com/karam2022/the-oracle), a game about crowd coordination and commit-reveal voting; and [Fork the Dictator](https://github.com/karam2022/fork-the-dictator), a single-file political satire.
 
 ---
 
