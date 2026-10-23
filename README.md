@@ -39,7 +39,6 @@ Arabic native · English fluent · German getting there
 | [ze.fi](https://ze.fi) | **Arabic-first blockchain education.** First comprehensive platform of its kind in MENA. Designed for low-bandwidth environments across Syria, Iraq, Turkey, and Jordan. Featured in [Cointelegraph](https://cointelegraph.com/features/syrian-refugee-turned-civil-activist-found-calling-as-blockchain-evangelist). |
 | [Safer Devices](https://github.com/karam2022/safer-devices) | **Device and account security.** Practical English and Arabic checklists, copyable agent instructions and attributed sources. |
 | [Nawafith Starter](https://github.com/karam2022/nawafith-starter) | **Documents to searchable records.** A bilingual OCR and structured-extraction starter kit, with links back to original sources. |
-| [WordClarity](https://github.com/karam2022/wordclarity) | **A browser writing workspace.** Word counts, readability and speaking-time estimates, plus shared writing sprints. |
 | [BasedBot Discipline](https://github.com/karam2022/basedbot-discipline) | **Feed filters and trading-discipline reminders.** A Chrome extension with optional Telegram alerts and a separate VPS watcher. |
 
 **Small browser games:** [Samizdat](https://github.com/karam2022/samizdat), a one-tap courier arcade; [The Oracle](https://github.com/karam2022/the-oracle), a game about crowd coordination and commit-reveal voting; and [Fork the Dictator](https://github.com/karam2022/fork-the-dictator), a single-file political satire.
