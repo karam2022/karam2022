@@ -33,7 +33,7 @@ Arabic native · English fluent · German getting there
 
 | Project | Description |
 |---------|-------------|
-| [nawafith.net](https://nawafith.net) | **AI intelligence platform for Syria.** 770+ Arabic & English sources. Entity extraction, faction mapping, daily briefings. |
+| [nawafith.net](https://nawafith.net) | **AI intelligence platform for Syria.** 770+ Arabic & English sources. Entity extraction, faction mapping, daily briefings. Featured in [Wired Middle East](https://www.wired.me/story/inside-the-tech-systems-that-kept-syria-running-under-the-assad-regime). |
 | [gov.nawafith.net](https://gov.nawafith.net/en) | **Syria's Official Gazette as open records.** 11,432 decrees and decisions and 5,874 companies, each on its own page in Arabic and English and linked to its gazette issue. Citable dataset: [10.5281/zenodo.24122383](https://doi.org/10.5281/zenodo.24122383). |
 | [zendetta.com](https://zendetta.com) | **My story as an immersive WebGL documentary.** 7 languages. Original artwork and soundtrack. Built with [Psychoactive](https://www.psychoactive.co.nz/content-hub/zendetta-bearing-witness-as-syria-enters-a-new-chapter). Awwwards Site of the Day, CSS Design Awards Site of the Month, Muse Creative Platinum (x2), W³ Gold. Hosts the Zendetta Grant for Syrian university applicants. |
 | [nafas](https://github.com/karam2022/nafas) | **Writing-style prompts for AI assistants.** Arabic and English guidance for capturing your own style, with an eight-part draft review. |
