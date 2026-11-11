@@ -33,7 +33,8 @@ Arabic native · English fluent · German getting there
 
 | Project | Description |
 |---------|-------------|
-| [nawafith.net](https://nawafith.net) | **AI intelligence platform for Syria.** 770+ Arabic & English sources. Entity extraction, faction mapping, daily briefings. Featured in [Wired Middle East](https://wired.me). |
+| [nawafith.net](https://nawafith.net) | **AI intelligence platform for Syria.** 770+ Arabic & English sources. Entity extraction, faction mapping, daily briefings. |
+| [gov.nawafith.net](https://gov.nawafith.net/en) | **Syria's Official Gazette as open records.** 11,432 decrees and decisions and 5,874 companies, each on its own page in Arabic and English and linked to its gazette issue. Citable dataset: [10.5281/zenodo.24122383](https://doi.org/10.5281/zenodo.24122383). |
 | [zendetta.com](https://zendetta.com) | **My story as an immersive WebGL documentary.** 7 languages. Original artwork and soundtrack. Built with [Psychoactive](https://www.psychoactive.co.nz/content-hub/zendetta-bearing-witness-as-syria-enters-a-new-chapter). Awwwards Site of the Day, CSS Design Awards Site of the Month, Muse Creative Platinum (x2), W³ Gold. Hosts the Zendetta Grant for Syrian university applicants. |
 | [nafas](https://github.com/karam2022/nafas) | **Writing-style prompts for AI assistants.** Arabic and English guidance for capturing your own style, with an eight-part draft review. |
 | [ze.fi](https://ze.fi) | **Arabic-first blockchain education.** First comprehensive platform of its kind in MENA. Designed for low-bandwidth environments across Syria, Iraq, Turkey, and Jordan. Featured in [Cointelegraph](https://cointelegraph.com/features/syrian-refugee-turned-civil-activist-found-calling-as-blockchain-evangelist). |
@@ -65,7 +66,7 @@ Arabic native · English fluent · German getting there
 
 ### Press & profiles
 
-- Inside the Tech Systems That Kept Syria Running Under the Assad Regime, *Wired Middle East* (2026)
+- [Inside the Tech Systems That Kept Syria Running Under the Assad Regime](https://www.wired.me/story/inside-the-tech-systems-that-kept-syria-running-under-the-assad-regime), *Wired Middle East* (2026)
 - Syrian refugee turned civil activist found calling as blockchain evangelist, *Cointelegraph* (2022)
 - A Syrian democracy activist overcomes detentions, barriers in path to Yale, *Yale Jackson School*
 - In two charts, this is what refugees say about why they are leaving Syria now, *Washington Post* (2015)
